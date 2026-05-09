@@ -3,7 +3,7 @@ AI-based fake product review detection system using NLP and Machine Learning
 
 ## Overview
 
-AI Fake Product Review Detector is a Machine Learning and Natural Language Processing (NLP) based project that identifies whether a product review is fake or genuine.
+ReviewShield-AI a Fake Product Review Detector is a Machine Learning and Natural Language Processing (NLP) based project that identifies whether a product review is fake or genuine.
 
 The project analyzes review text using TF-IDF feature extraction and Logistic Regression classification to predict review authenticity with approximately 90% accuracy.
 
@@ -92,7 +92,7 @@ The model achieved approximately:
 # Project Structure
 
 ```text
-AI-Fake-Product-Review-Detector
+AI-Fake-Product-Review-Detector(ReviewShield-AI)
 │
 ├── app.py
 ├── fake_review_model.pkl
@@ -105,7 +105,7 @@ AI-Fake-Product-Review-Detector
 │   ├── prediction.png
 │   └── charts.png
 └── notebook
-    └── model_training.ipynb
+    └── fake review detector.ipynb
 ```
 
 ---
@@ -142,19 +142,20 @@ streamlit run app.py
 
 # Screenshots
 
+
 ## Application Interface
 
+![Interface](screenshots/interface.png)
 
 
 ## Prediction Result
 
-Add screenshot here.
+![Prediction](screenshots/prediction.png)
 
 ## Data Visualization
 
-Add screenshot here.
-
----
+![pie Chart](screenshots/pie chart.png)
+![wordcloud](screenshots/wordcloud.png)
 
 # Future Improvements
 
