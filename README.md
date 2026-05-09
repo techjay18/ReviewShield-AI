@@ -145,7 +145,7 @@ streamlit run app.py
 
 ## Application Interface
 
-![Interface](https://raw.githubusercontent.com/techjay18/ReviewShield-AI/main/screenshots/interface.png)
+![Interface](https://github.com/techjay18/ReviewShield-AI/blob/main/Fake%20review%20detector%2FScreenshots%2Finterface.png)
 
 
 ## Prediction Result
