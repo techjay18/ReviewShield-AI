@@ -145,17 +145,17 @@ streamlit run app.py
 
 ## Application Interface
 
-![Interface](screenshots/interface.png)
+![Interface](Screenshots/interface.png)
 
 
 ## Prediction Result
 
-![Prediction](screenshots/prediction.png)
+![Prediction](Screenshots/prediction.png)
 
 ## Data Visualization
 
-![pie Chart](screenshots/pie chart.png)
-![wordcloud](screenshots/wordcloud.png)
+![pie Chart](Screenshots/piechart.png)
+![wordcloud](Screenshots/wordcloud.png)
 
 # Future Improvements
 
