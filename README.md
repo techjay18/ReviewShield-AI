@@ -145,7 +145,7 @@ streamlit run app.py
 
 ## Application Interface
 
-![Interface](Screenshots/interface.png)
+![Interface](https://raw.githubusercontent.com/techjay18/ReviewShield-AI/main/screenshots/interface.png)
 
 
 ## Prediction Result
