@@ -150,12 +150,13 @@ streamlit run app.py
 
 ## Prediction Result
 
-![Prediction](Screenshots/prediction.png)
+![Prediction](https://github.com/techjay18/ReviewShield-AI/blob/main/Fake%20review%20detector%2FScreenshots%2Fprediction.png)
 
 ## Data Visualization
 
-![pie Chart](Screenshots/piechart.png)
-![wordcloud](Screenshots/wordcloud.png)
+![pie Chart](https://github.com/techjay18/ReviewShield-AI/blob/main/Fake%20review%20detector%2FScreenshots%2Fpiechart.png)
+
+![wordcloud](https://github.com/techjay18/ReviewShield-AI/blob/main/Fake%20review%20detector%2FScreenshots%2Fwordcloud.png)
 
 # Future Improvements
 
