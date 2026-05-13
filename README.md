@@ -183,12 +183,6 @@ Jay Desai
 
 ---
 
-# Resume Description
-
-Developed an AI-based Fake Product Review Detection System using Natural Language Processing and Machine Learning techniques. Built a Streamlit web interface with approximately 90% accuracy using TF-IDF Vectorization and Logistic Regression.
-
----
-
 # License
 
-This project is for educational and internship purposes.
+This project is for educational purposes.
